@@ -27,8 +27,6 @@ $(function(){
     })
 });
 
-
-
 const content = "안녕하세요.\n제 이름은 이선호 입니다.\n소통하는 개발자가 되고 싶어요!";
 const text = document.querySelector(".text")
 let index = 0;
